@@ -1,18 +1,8 @@
----
-layout: project
-title: Rede Rio Quântica (RRQ)
-participants: Temporão G.
-year: 2023
-url: "https://www.gov.br/cbpf/pt-br/assuntos/noticias/lancada-a-pedra-fundamental-da-rede-rio-quantica"
-image: /images/projects/rrq.svg
----
+I"<h1 id="abstract">Abstract</h1>
 
-# Abstract
+<p><img src="/images/projects/rrq.svg" alt="RRQ Project" title="RRQ Project" /></p>
 
-![RRQ Project](/images/projects/rrq.svg "RRQ Project")
-
-
-O projeto Rede Rio Quântica é uma iniciativa dos Grupos de Pesquisa em Ótica e Informação
+<p>O projeto Rede Rio Quântica é uma iniciativa dos Grupos de Pesquisa em Ótica e Informação
 Quântica da Universidade Federal Fluminense (UFF), Pontifícia Universidade Católica do Rio de
 Janeiro (PUC-Rio), Universidade Federal do Rio de Janeiro (UFRJ), Centro Brasileiro de Pesquisas
 Físicas (CBPF). A equipe participante do projeto é coordenada pelo Prof. Antonio Zelaquett Khoury
@@ -31,4 +21,5 @@ Quântica MDI-QKD, visando uma comunicação segura entre dois nós da rede de f
 independente, sem nenhuma suposição adicional de segurança. O objetivo central do projeto é
 criar um núcleo de competência em Redes Quânticas, por meio da implementação de uma rede de
 comunicações Quântica dentro da região metropolitana do Rio de Janeiro, abrindo o caminho para
-a integração do Brasil à Internet Quântica 
+a integração do Brasil à Internet Quântica</p>
+:ET
