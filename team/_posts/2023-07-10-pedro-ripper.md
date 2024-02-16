@@ -11,3 +11,6 @@ cv:
 email: pripper@opto.cetuc.puc-rio.br
 ---
 
+
+Pedro Ripper is a Master's student at PUC-Rio and a R&D Analyst at PSR.
+His research is focused mainly on NISQ Era algorithms and Quantum Optimization.
