@@ -4,7 +4,7 @@ title: Christiano Nascimento
 position: PhD Student
 handle: 
 twitter: 
-github: 
+github: chris-nascimento
 scholar: Fod5FkgAAAAJ
 image: /images/team/christiano-nascimento.jpg
 cv: 
