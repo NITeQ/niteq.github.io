@@ -6,7 +6,7 @@ handle:
 twitter: 
 github: BrunoWolf03
 scholar: ETKYRC8AAAAJ
-image: /images/team/bruno-wolf.jpeg
+image: /images/team/bruno-wolf.png
 cv: 
 email: brunowpovoa@gmail.com
 ---
