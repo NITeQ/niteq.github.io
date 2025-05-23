@@ -5,7 +5,7 @@ position: BSc Student
 handle: 
 twitter: 
 github: BrunoWolf03
-scholar: ETKYRC8AAAAJ
+scholar: 
 image: /images/team/bruno-wolf.png
 cv: 
 email: brunowpovoa@gmail.com
